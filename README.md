@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">I'm Guilherme...<br><br>- 📚 I'm currently learning MySQL and Computer Science at CEUNSP ...<br>- 🔭 I’m looking for my first job opportunity.<br>- ⚡ In my free time I play soccer, run in the park, play video-game...</p>
+<p align="left">I'm Guilherme...<br><br>- 📚 I'm currently learning NodeJS and Computer Science at CEUNSP ...<br>- 🔭 I’m looking for my first job opportunity.<br>- ⚡ In my free time I play soccer, run in the park, play video-game...</p>
 
 
 ## 🔥 Skills
